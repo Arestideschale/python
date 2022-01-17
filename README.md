@@ -285,3 +285,15 @@ Imprima no final a soma da série.
 S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m.
 
 Imprima no final a soma da série.
+
+49.O Supermercado ArrobaMz está com uma promoção de carnes que é imperdivel.
+
+____________Até 5kg__________Acima de 5kg
+
+File duplo____4.90_______________5.80
+
+Picanha______5.90_______________6.80
+   
+Alcatra______6.90______________7.80
+ 
+Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne de promoção, porém não hà limites para a quantidade de carne por cliente. Se a compra for feita no cartão ArrobaMz o cliente receberá ainda um desconto de 5% sobre o total da compra. Escreva um programa em python que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra, tipo e quantidade de carne, preço total, tipo de pagamento, valor de desconto e valor a pagar.
