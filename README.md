@@ -264,6 +264,7 @@ Atleta: Aparecido Parente
 Melhor nota: 9.9
 Pior nota: 7.5
 Média: 9,04
+
 48. Faça um programa que peça um numero inteiro positivo e em seguida mostre este numero invertido.
 
 Exemplo:
@@ -271,6 +272,7 @@ Exemplo:
 12376489
 
 => 98467321
+
 
 49 Faça um programa que mostre os n termos da Série a seguir:
 
