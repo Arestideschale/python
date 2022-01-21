@@ -4,16 +4,16 @@ while produtos > 50:
 
 
 precos = []
-n_produto = 1
+numero_produto = 1
 count = 0
 
 for i in range(produtos):
-    print("Produto N° ", n_produto)
+    print("Produto N° ", numero_produto)
     preco = precos.append(float(input("Digite o preco do produto: ")))
-    n_produto += 1
+    numero_produto += 1
 
-n_produto = 1
+numero_produto = 1
 for j in range(produtos):
-    print("Produto N° ", n_produto, "= ", precos[count])
+    print("Produto N° ", numero_produto, "= ", precos[count])
     count += 1
-    n_produto += 1
+    numero_produto += 1
